@@ -1,0 +1,1 @@
+V1.1: Alle zehn Tage erweitert, zusätzliche Attraktionen auf den Karten. Vejer-Bild lokal enthalten. index.html im Browser öffnen. Internet für Karten, Routen und weitere Fotos erforderlich. Notizen/Checklisten im Browser, JSON-Backup unter Reiseinfos & Sicherung.
